@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on nothing at this moment, not sure how or what I would contribute, but eventually I imagine something.
 - 📫 How to reach me there are several ways, for now I'll share one email, misko@live.ca
 
+- Just testing editting feature, following along instructions set up for IMG 123 course.
+
 <!---
 m-valent/m-valent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
